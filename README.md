@@ -2,9 +2,9 @@
 
 > A clean, responsive developer portfolio website built with **HTML5, CSS3, and Vanilla JavaScript** — no frameworks, no build tools, just pure web.
 
-<!-- [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](#) -->
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](atharvathawkar.netlify.app) 
 [![GitHub](https://img.shields.io/badge/GitHub-AtharvaThawkar-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AtharvaThawkar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharva-t-8b6620261)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/atharvathawkar)
 
 ---
 
@@ -93,7 +93,7 @@ Key CSS variables (at the top of `style.css`):
 If you have feedback, suggestions, or just want to connect:
 
 - 📧 **Email:** [atharvathawkar18@gmail.com](mailto:atharvathawkar18@gmail.com)
-- 💼 **LinkedIn:** [atharva-t-8b6620261](https://linkedin.com/in/atharva-t-8b6620261)
+- 💼 **LinkedIn:** [atharva-t-8b6620261](https://linkedin.com/in/atharvathawkar)
 - 🐙 **GitHub:** [@AtharvaThawkar](https://github.com/AtharvaThawkar)
 - 🧩 **LeetCode:** [Atharva_Thawkar](https://leetcode.com/u/Atharva_Thawkar/)
 
