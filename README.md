@@ -2,9 +2,9 @@
 
 > A clean, responsive developer portfolio website built with **HTML5, CSS3, and Vanilla JavaScript** — no frameworks, no build tools, just pure web.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](atharvathawkar.netlify.app) 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://atharvathawkar.netlify.app/) 
 [![GitHub](https://img.shields.io/badge/GitHub-AtharvaThawkar-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AtharvaThawkar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/atharvathawkar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharvathawkar)
 
 ---
 
