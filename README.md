@@ -93,7 +93,7 @@ Key CSS variables (at the top of `style.css`):
 If you have feedback, suggestions, or just want to connect:
 
 - 📧 **Email:** [atharvathawkar18@gmail.com](mailto:atharvathawkar18@gmail.com)
-- 💼 **LinkedIn:** [atharva-t-8b6620261](https://linkedin.com/in/atharvathawkar)
+- 💼 **LinkedIn:** [atharvathawkar](https://linkedin.com/in/atharvathawkar)
 - 🐙 **GitHub:** [@AtharvaThawkar](https://github.com/AtharvaThawkar)
 - 🧩 **LeetCode:** [Atharva_Thawkar](https://leetcode.com/u/Atharva_Thawkar/)
 
